@@ -24,8 +24,12 @@
 <br />
 
 ## Description
-The idea of this project came along time ago and the reason was a collage of mine who dreamed to become a pizza master chef. He neglected all his job as a programmer and start to make a pizza. Nothing wrong with that Alex! That is why I decided to help him creating this project. The project represents a simple form to order food and drinks thru this app. I use here a reactive forms to manage the user input. That is why the first thing after my app creation was to import { ReactiveFormsModule } in to "app.module.ts".
-<br />
+
+1. When the user presses the "ROLL DICE" button, it generates a random dice roll and at the same time displays the dice number. If the dice number is 0, the game switches the player. If it's not - the game continues.
+
+2. When the user presses the "HOLD" button, the game adds the score to the total score. If the score is Greater or equal to 100, the current player wins. If it's not - the game switches the player.
+
+3. When the user presses the "NEW GAME" button, he resets the game.This sets all scores to 0 and sets player 1 as starting player.
 
 `import { ReactiveFormsModule } from '@angular/forms';`
 
