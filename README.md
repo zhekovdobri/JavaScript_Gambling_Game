@@ -57,5 +57,5 @@
 
 JavaScript_Gambling_Game is licensed under the GNU GPL 3 license.
 
-<sub><sup>Copiright © 2016-2021 Dobri Zhekov All Rights Reserved</sup></sub>
+<sub><sup>Copiright © 2016-2022 Dobri Zhekov All Rights Reserved</sup></sub>
 
