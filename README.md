@@ -33,7 +33,7 @@
 
 ## Directory structure:
 
-<img alt="chart" src="https://github.com/zhekovdobri/Angular-Pizza-app/blob/main/assets/images/Directory%20Tree%20Pizza.png">
+<img alt="chart" src="https://raw.githubusercontent.com/zhekovdobri/JavaScript_Gambling_Game/e77823dda55b9cfd6060df3c8caa48ee43dcaa33/Directory_structure_image.png">
 
 ## Setup/Installation Requirements
 
